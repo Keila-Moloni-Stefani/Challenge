@@ -26,7 +26,7 @@ Esta aplicação foi criada para facilitar um sorteio justo e aleatório. A inte
 - Repita para todos os participantes
 
 ### Realizar o Sorteio
-- certifique-se de ter pelo menos um participante
+- Certifique-se de ter pelo menos um participante
 - Clique no botão "Sortear amigo"
 - O nome sorteado aparecerá destacado na tela
 
